@@ -13,3 +13,5 @@ Jacob Bartnett
 - ## Map Coordinate Basics
 
 - [Understanding map coordinates] (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
+
+- ## Projecting Geographic Data 
