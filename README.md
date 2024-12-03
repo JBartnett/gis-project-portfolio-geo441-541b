@@ -15,5 +15,5 @@ Jacob Bartnett
 - [Understanding map coordinates] (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
 - ## Projecting Geographic Data
--  (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_03_assignment_template.ipynb)
+-  [understanding latituted and longitude] (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_03_assignment_template.ipynb)
 -  
