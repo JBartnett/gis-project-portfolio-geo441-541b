@@ -14,9 +14,9 @@ Jacob Bartnett
 
 - [Understanding map coordinates] (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
-- ## Projecting Geographic Data
+## Projecting Geographic Data
 -  [understanding latituted and longitude] (https://github.com/JBartnett/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_03_assignment_template.ipynb)
 
-- ## Mapping digital elevation and hydrology data 
+## Mapping digital elevation and hydrology data 
 - [Lower St. Croix Watershed] (https://colab.research.google.com/drive/1gV2lt5MrH6yNWb7JY0f2_1bYp--8Oq-_?usp=sharing)
 - 
