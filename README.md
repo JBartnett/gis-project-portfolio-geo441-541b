@@ -25,3 +25,6 @@ Jacob Bartnett
 
 ## Query spatial data for new insights
 - [Map old / young ratios of counties in continguous U.S.] (https://colab.research.google.com/drive/1AQyvVu8vWdlG1mTHvueOyiQef_CsXOcY?usp=sharing)
+
+## Spatial analysis for vector data 
+- [Hotspots of Cholera in Soho, London] (https://colab.research.google.com/drive/15yFFyYHqzfG9XeLMDoWGp2zIz2zU2pWM?usp=sharing)
