@@ -19,4 +19,6 @@ Jacob Bartnett
 
 ## Mapping digital elevation and hydrology data 
 - [Lower St. Croix Watershed] (https://colab.research.google.com/drive/1gV2lt5MrH6yNWb7JY0f2_1bYp--8Oq-_?usp=sharing)
-- 
+
+## Spatial analysis for raster data 
+- [Topography of the city of oxford] (https://colab.research.google.com/drive/1AM5YNn8XQB_Lof7OWf3J-Unom34Hu5tG?usp=sharing)
