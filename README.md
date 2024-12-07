@@ -22,3 +22,6 @@ Jacob Bartnett
 
 ## Spatial analysis for raster data 
 - [Topography of the city of oxford] (https://colab.research.google.com/drive/1AM5YNn8XQB_Lof7OWf3J-Unom34Hu5tG?usp=sharing)
+
+## Query spatial data for new insights
+- [Map old / young ratios of counties in continguous U.S.] (https://colab.research.google.com/drive/1AQyvVu8vWdlG1mTHvueOyiQef_CsXOcY?usp=sharing)
